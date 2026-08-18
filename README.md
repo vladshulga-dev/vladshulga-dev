@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Vladislav Shulga Frontend Developer" width="100%">
+  <img src="./assets/profile.png" alt="Vladislav Shulga Frontend Developer" width="100%">
 </p>
 
 # Vladislav Shulga
