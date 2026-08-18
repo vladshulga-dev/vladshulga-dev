@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Vladislav Shulga Frontend Developer" width="100%">
+</p>
+
 # Vladislav Shulga
 
 Frontend Developer focused on responsive and modern web interfaces.
